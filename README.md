@@ -1,0 +1,2 @@
+# ClickAndThrowGameTest
+ test purpose
