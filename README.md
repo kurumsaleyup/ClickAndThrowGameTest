@@ -1,2 +1,2 @@
 # ClickAndThrowGameTest
- test purpose
+ test purpose first indie mobile game.<br>
