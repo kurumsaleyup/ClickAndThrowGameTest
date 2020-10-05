@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 4261385615716130023}
   m_Layer: 0
   m_Name: NonSelectable
-  m_TagString: Untagged
+  m_TagString: Redzone
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -28,7 +28,7 @@ Transform:
   m_GameObject: {fileID: 458722451078816229}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: -0.09411764, z: 0}
-  m_LocalScale: {x: 1.3333334, y: 0.0582353, z: 1.3333334}
+  m_LocalScale: {x: 1.3333334, y: 0.15017137, z: 1.3333334}
   m_Children: []
   m_Father: {fileID: 4479411841023514768}
   m_RootOrder: 2
@@ -55,6 +55,7 @@ MeshRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -106,7 +107,7 @@ GameObject:
   - component: {fileID: 4135172738409520742}
   m_Layer: 0
   m_Name: NonSelectable
-  m_TagString: Untagged
+  m_TagString: Redzone
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -120,7 +121,7 @@ Transform:
   m_GameObject: {fileID: 3420709187890472720}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0.08235292, z: 0}
-  m_LocalScale: {x: 1.3333334, y: 0.0582353, z: 1.3333334}
+  m_LocalScale: {x: 1.3333334, y: 0.13223489, z: 1.3333334}
   m_Children: []
   m_Father: {fileID: 4479411841023514768}
   m_RootOrder: 3
@@ -147,6 +148,7 @@ MeshRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -198,7 +200,7 @@ GameObject:
   - component: {fileID: 8687074412709799354}
   m_Layer: 0
   m_Name: NonSelectable
-  m_TagString: Untagged
+  m_TagString: Redzone
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -212,7 +214,7 @@ Transform:
   m_GameObject: {fileID: 4540229502333398416}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0.42058823, z: 0}
-  m_LocalScale: {x: 1.3333334, y: 0.0582353, z: 1.3333334}
+  m_LocalScale: {x: 1.3333334, y: 0.096938476, z: 1.3333334}
   m_Children: []
   m_Father: {fileID: 4479411841023514768}
   m_RootOrder: 5
@@ -239,6 +241,7 @@ MeshRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -337,6 +340,7 @@ MeshRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -388,7 +392,7 @@ GameObject:
   - component: {fileID: 4712582271072458242}
   m_Layer: 0
   m_Name: NonSelectable
-  m_TagString: Untagged
+  m_TagString: Redzone
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -402,7 +406,7 @@ Transform:
   m_GameObject: {fileID: 7686014768393479292}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0.25705883, z: 0}
-  m_LocalScale: {x: 1.3333334, y: 0.0582353, z: 1.3333334}
+  m_LocalScale: {x: 1.3333334, y: 0.1433527, z: 1.3333334}
   m_Children: []
   m_Father: {fileID: 4479411841023514768}
   m_RootOrder: 4
@@ -429,6 +433,7 @@ MeshRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -480,7 +485,7 @@ GameObject:
   - component: {fileID: 2679684813920675316}
   m_Layer: 0
   m_Name: NonSelectable
-  m_TagString: Untagged
+  m_TagString: Redzone
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -494,7 +499,7 @@ Transform:
   m_GameObject: {fileID: 8217799735116854454}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: -0.25, z: 0}
-  m_LocalScale: {x: 1.3333334, y: 0.0582353, z: 1.3333334}
+  m_LocalScale: {x: 1.3333334, y: 0.11054807, z: 1.3333334}
   m_Children: []
   m_Father: {fileID: 4479411841023514768}
   m_RootOrder: 1
@@ -521,6 +526,7 @@ MeshRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -572,7 +578,7 @@ GameObject:
   - component: {fileID: 8241097906462738067}
   m_Layer: 0
   m_Name: NonSelectable
-  m_TagString: Untagged
+  m_TagString: Redzone
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -586,7 +592,7 @@ Transform:
   m_GameObject: {fileID: 9072178170696214432}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: -0.3882353, z: 0}
-  m_LocalScale: {x: 1.3333334, y: 0.0582353, z: 1.3333334}
+  m_LocalScale: {x: 1.3333334, y: 0.12834477, z: 1.3333334}
   m_Children: []
   m_Father: {fileID: 4479411841023514768}
   m_RootOrder: 0
@@ -613,6 +619,7 @@ MeshRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
