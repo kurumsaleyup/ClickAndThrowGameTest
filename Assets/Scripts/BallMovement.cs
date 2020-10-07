@@ -60,7 +60,7 @@ public class BallMovement : MonoBehaviour
     {
         Vector3 curScreenPoint = new Vector3(Input.mousePosition.x, Input.mousePosition.y, screenPoint.z);
         curPosition = cam.ScreenToWorldPoint(curScreenPoint) + offset;
-        curPosition.y = Mathf.Clamp(curPosition.y, Ymin, Ymax);
+        curPosition.y = Mathf.Clamp(curPosition.y, Ymin, Ymax); //mouse la çekince objenin y eksininde oynaması kısıtlandı
         transform.position = new Vector3(transform.position.x, curPosition.y, transform.position.z);
 
     }
